@@ -1,8 +1,10 @@
 # StoryMaps
 
-Jessie Zarazaga – SMU Iniative for Spatial Literacy – jzarazaga@smu.edu
-GIS@SMU website - https://www.smu.edu/libraries/fondren/services/gis
 tutorial link - https://github.com/zarazaga/StoryMaps
+
+Jessie Zarazaga – SMU Iniative for Spatial Literacy – jzarazaga@smu.edu
+
+GIS@SMU website - https://www.smu.edu/libraries/fondren/services/gis
 
 ## Overview
 
