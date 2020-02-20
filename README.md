@@ -22,7 +22,7 @@ Or signup with a [free ESRI developer account](https://developers.arcgis.com/sig
 
 ### Data
 
-The data package for the workshop can be downloaded from [https://github.com/zarazaga/storymap/master/TTUdata.zip](https://github.com/zarazaga/StoryMaps/tree/master/TTUdata.zip)
+The data package for the workshop can be downloaded from [TTUdata](https://github.com/zarazaga/StoryMaps/tree/master/TTUdata.zip)
 
 The data folder contains the following data:
 
