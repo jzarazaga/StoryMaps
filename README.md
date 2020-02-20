@@ -1,7 +1,6 @@
 # StoryMaps
 tutorial
 
-https://github.com/zarazaga/StoryMaps
 Jessie Zarazaga – SMU Iniative for Spatial Literacy – jzarazaga@smu.edu
 
 ## Overview
@@ -31,7 +30,7 @@ Or signup with a [free ESRI developer account](https://developers.arcgis.com/sig
 
 ### Data
 
-The data package for the workshop can be downloaded from [https://github.com/zarazaga/storymap/data](https://github.com/zarazaga/StoryMaps/tree/master/TTU_data)
+The data package for the workshop can be downloaded from [https://github.com/zarazaga/storymap/TTUdata.zip](https://github.com/zarazaga/StoryMaps/tree/master/TTUdata.zip)
 
 The data folder contains the following data:
 
