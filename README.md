@@ -71,6 +71,10 @@ Once you place the map, you can still edit it.
 Under 'settings' (the small gear) you can change the basemap
 and add a 'legend'
 
+here is a link to my version - to follow along 
+https://storymaps.arcgis.com/stories/a1d1dc5d48334c1f9aa9e412e23470ea
+
+
 Next, lets add a Sidecar . . 
 ![sidecar.png](./media/sidecar.png)
 
