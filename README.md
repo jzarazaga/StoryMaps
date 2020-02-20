@@ -59,13 +59,22 @@ note: open the [text file](https://github.com/zarazaga/StoryMaps/TTU_data/inform
 ![addBanner.png](./media/addBanner.png)
 
 then add a quote:
+
 Add a heading:  'Vision'
-and an image: 
+and an image: students_o
 and some text explaining the university vision
 
-And another
+And another heading: location
+and add a 'map' ; 
+start with an express map-
 
+![expressMap.png](./media/expressMap.png)
 
+and create a location map for the univeristy.
+
+Add a few layers . . 
+
+![expressMap2.png](./media/expressMap2.png)
 
 
 
