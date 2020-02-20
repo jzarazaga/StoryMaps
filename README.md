@@ -31,17 +31,44 @@ Or signup with a [free ESRI developer account](https://developers.arcgis.com/sig
 
 ### Data
 
-The data package for the workshop can be downloaded from [https://github.com/zarazaga/storymap/master.zip](https://github.com/mapninja/QGIS-101/archive/master.zip)
+The data package for the workshop can be downloaded from [https://github.com/zarazaga/storymap/data](https://github.com/zarazaga/StoryMaps/tree/master/TTU_data)
 
-The project data folder contains the following datasets:
+The data folder contains the following data:
 
-* **deathAddresses.csv**  - this is a table latitude and longitude coordinates for addresses affected by the cholera outbreak. This table also contains the number of deaths at each address.  
-* **image.tif** - this is a non-georeferenced image of the map from John Snow's original report on the cholera outbreak of 1854. 
-* **Study_Area.shp** - This file is simply a rectangular feature that describes our area of interest.  
+* information.txt  - an optional text file for you to use to make this storymap
+* college-view.jpg  - an image of the campus
 
 #### Additional Files
 There is an extra backup data folder that contains versions of files that we will create during the workshop.
+ 
+## Getting started
+open a [new storymap](https://storymaps.arcgis.com/) and sign on, then '+' a story . . 
 
-## Getting started on a project  
+![newStory.png](./media/newstory.png)
+
+First Write a title (*Taita Taveta University* ) and sub-title ( *home of ideas* )
+
+and add the image 'college view' 
+
+From the '+' select the element on the dropdown menu to include:
+
+first add a Paragraph . . 
+
+note: open the [text file](https://github.com/zarazaga/StoryMaps/TTU_data/information.txt) if you want to use the text I have prepared . .
+
+![addBanner.png](./media/addBanner.png)
+
+then add a quote:
+Add a heading:  'Vision'
+and an image: 
+and some text explaining the university vision
+
+And another
+
+
+
+
+
+
 
 
