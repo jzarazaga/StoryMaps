@@ -67,6 +67,26 @@ Add a few layers . .
 
 ![expressMap2.png](./media/expressMap2.png)
 
+Once you place the map, you can still edit it.
+Under 'settings' (the small gear) you can change the basemap
+and add a 'legend'
+
+Next, lets add a Sidecar . . 
+![sidecar.png](./media/sidecar.png)
+
+Add a sub-heading: Strategic Pillar
+and add a series of images of the univeristy.  
+
+Eventually you'll want one for each pillar, but we can re-arrange them later. 
+
+Pillar 1: Research,  Pillar 2: Facilities, Pillar 3: Student experience Pillar 4: Human Resources,  Pillar 5: Financing and Resources, Pillar 6: Leadership
+
+![multipleImagesSidecar.png](./media/multipleImagesSidecar.png)
+
+For each image- add some text . .
+There is a web-link you can add to Pillar 1: research
+There is a video to add to Pillar 3: 
+https://arcg.is/0SWnrT
 
 
 
