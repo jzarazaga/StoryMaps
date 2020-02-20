@@ -1,22 +1,12 @@
 # StoryMaps
-tutorial
 
 Jessie Zarazaga – SMU Iniative for Spatial Literacy – jzarazaga@smu.edu
+GIS@SMU website - https://www.smu.edu/libraries/fondren/services/gis
+tutorial link - https://github.com/zarazaga/StoryMaps
 
 ## Overview
 
 This workshop aims to introduce participants to basic tools, concepts and techniques for creating web-stories which integrate text, images and maps, using StoryMaps, an online software distributed by Esri.   
-
-GIS@SMU website - https://www.smu.edu/libraries/fondren/services/gis
-
-# StoryMaps
-
-tutorial link - https://github.com/zarazaga/StoryMaps
-
-Jessie Zarazaga – SMU Iniative for Spatial Literacy -     jzarazaga@smu.edu
-
-GIS@SMU website - https://www.smu.edu/libraries/fondren/services/gis
-
 
 ## Setup
 
