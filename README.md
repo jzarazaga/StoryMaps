@@ -44,7 +44,7 @@ There is an extra backup data folder that contains versions of files that we wil
 ## Getting started
 open a [new storymap](https://storymaps.arcgis.com/) and sign on, then '+' a story . . 
 
-![newStory.png](./media/newstory.png)
+![newStory.png](./media/newStory.png)
 
 First Write a title (*Taita Taveta University* ) and sub-title ( *home of ideas* )
 
