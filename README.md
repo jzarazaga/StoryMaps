@@ -1,23 +1,14 @@
 # StoryMaps
-tutorial
 
-https://github.com/zarazaga/StoryMaps
+tutorial link - https://github.com/zarazaga/StoryMaps
+
 Jessie Zarazaga – SMU Iniative for Spatial Literacy – jzarazaga@smu.edu
+
+GIS@SMU website - https://www.smu.edu/libraries/fondren/services/gis
 
 ## Overview
 
 This workshop aims to introduce participants to basic tools, concepts and techniques for creating web-stories which integrate text, images and maps, using StoryMaps, an online software distributed by Esri.   
-
-GIS@SMU website - https://www.smu.edu/libraries/fondren/services/gis
-
-# StoryMaps
-
-tutorial link - https://github.com/zarazaga/StoryMaps
-
-Jessie Zarazaga – SMU Iniative for Spatial Literacy -     jzarazaga@smu.edu
-
-GIS@SMU website - https://www.smu.edu/libraries/fondren/services/gis
-
 
 ## Setup
 
@@ -31,7 +22,7 @@ Or signup with a [free ESRI developer account](https://developers.arcgis.com/sig
 
 ### Data
 
-The data package for the workshop can be downloaded from [https://github.com/zarazaga/storymap/data](https://github.com/zarazaga/StoryMaps/tree/master/TTU_data)
+The data package for the workshop can be downloaded from [TTUdata](https://github.com/zarazaga/StoryMaps/tree/master/TTUdata.zip)
 
 The data folder contains the following data:
 
