@@ -8,7 +8,7 @@ GIS@SMU website - https://www.smu.edu/libraries/fondren/services/gis
 
 ## Overview
 
-This workshop aims to introduce participants to basic tools, concepts and techniques for creating web-stories which integrate text, images and maps, using StoryMaps, an online software distributed by Esri.   The sample pages is focused on Taita Taveta University in Kenya.
+This workshop aims to introduce participants to basic tools, concepts and techniques for creating web-stories which integrate text, images and maps, using StoryMaps, an online software distributed by Esri.   The exsample is focused on creating a new page for Taita Taveta University in Kenya.
 
 ## Setup
 
@@ -80,7 +80,7 @@ Next, lets add a Sidecar . .
 ![sidecar.png](./media/sidecar.png)
 
 Add a sub-heading: Strategic Pillar
-and add a series of images of the univeristy.  
+and add a series of images of the univeristy:.  
 
 Eventually you'll want one for each pillar, but we can re-arrange them later. 
 
