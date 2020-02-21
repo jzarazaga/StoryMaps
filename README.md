@@ -88,8 +88,8 @@ Pillar 1: Research,  Pillar 2: Facilities, Pillar 3: Student experience Pillar 4
 
 ![multipleImagesSidecar.png](./media/multipleImagesSidecar.png)
 
-For each image- add some text . .
-There is a web-link you can add to Pillar 1: research
+Put an image with each Pillar; for each image- add some text . .
+Pillar 1: research, you can add a web-link and another link in Pillar 2.
 There is a video to add to Pillar 3: 
 https://arcg.is/0SWnrT
 
