@@ -1,6 +1,6 @@
 # StoryMaps
 
-tutorial link - https://github.com/zarazaga/StoryMaps
+tutorial link - https://github.com/zarazaga/StoryMaps-Tutorial-Kenya
 
 Jessie Zarazaga – SMU Iniative for Spatial Literacy – jzarazaga@smu.edu
 
@@ -8,7 +8,7 @@ GIS@SMU website - https://www.smu.edu/libraries/fondren/services/gis
 
 ## Overview
 
-This workshop aims to introduce participants to basic tools, concepts and techniques for creating web-stories which integrate text, images and maps, using StoryMaps, an online software distributed by Esri.   
+This workshop aims to introduce participants to basic tools, concepts and techniques for creating web-stories which integrate text, images and maps, using StoryMaps, an online software distributed by Esri.   The sample pages is focused on Taita Taveta University in Kenya.
 
 ## Setup
 
@@ -28,6 +28,7 @@ The data folder contains the following data:
 
 * information.txt  - an optional text file for you to use to make this storymap
 * college-view.jpg  - an image of the campus
+
 
 #### Additional Help
 The Storymap that will be built in this tutorial will be similar to this one: https://storymaps.arcgis.com/stories/a1d1dc5d48334c1f9aa9e412e23470ea
