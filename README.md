@@ -29,8 +29,8 @@ The data folder contains the following data:
 * information.txt  - an optional text file for you to use to make this storymap
 * college-view.jpg  - an image of the campus
 
-#### Additional Files
-There is an extra backup data folder that contains versions of files that we will create during the workshop.
+#### Additional Help
+The Storymap that will be built in this tutorial will be similar to this one: https://storymaps.arcgis.com/stories/a1d1dc5d48334c1f9aa9e412e23470ea
  
 ## Getting started
 open a [new storymap](https://storymaps.arcgis.com/) and sign on, then '+' a story . . 
