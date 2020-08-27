@@ -50,6 +50,10 @@ note: open the [text file](https://github.com/zarazaga/StoryMaps/TTU_data/inform
 
 ![addBanner.png](./media/addBanner.png)
 
+and under the 'text' button add text . .
+
+![addBanner.png](./media/addBanner2.png)
+
 then add a quote:
 
 Add a heading:  'Vision'
@@ -93,7 +97,48 @@ Pillar 1: research, you can add a web-link and another link in Pillar 2.
 There is a video to add to Pillar 3: 
 https://arcg.is/0SWnrT
 
+Carry on and add pages for Pilars 4 and 5. 
+
+Now return- below the black line= to the small blue '+' select "text" again, and add a heading (Tt bold and large) some text, and the quote ("). 
+
+![](./media/addBanner2.png)
+
+We are going to add another side car- onl this time, the text will be on the left, and the a map with local data will be on the right. 
+
+Instead of adding an express map, lets make use of ARcGIS online to gather data layers about the regions of Taita Taveta, and show them on a map. 
+
+In a new browser window open ArcGIS online, and make a new map.
+
+![](./media/AGOLnewMap.png)
+
+Zoom to KENYA, and add the following data sets to your map
+
+![](./media/AGOLdata.png)
+
+(or add any other data you find more interesting)
+
+Save this map with a NAME you can remember . .
+LEAVE ArcGIS Online.
+
+Now return to your StoryMap and use the banner to Add a sidecar. Selecting a 'docked panel' you can add the text on the left - describing vegettion, and add a map on the right to illustrate that. 
+
+You should find your own ArcGIS map  . .and can add it.
+![](./media/MediaMap.png)
 
 
+Make sure only one of the Map layers is visible, and zoom to the scale at which you want this map-data to show. Then click 'place map'.
 
+![](./media/PlaceMap.png)
+
+Staying in the same sidecar, add another map.(Add Media/ Add Map).  This time you select the same map, but choose different layers to add. Zoom in slightly to show the Kenya Wetlands around Taita Tavet and Voi.
+
+Finally add the same map a third time but this time zoom in further, and show the detailed information around the Taita Hills, collectd by research teams working with the University. 
+
+![](./media/ZoominMap.png)
+
+You should now be able to figure out how to add some additional images into your running text box, and, eventually, how to add a 'button' with a link to the University Website. 
+
+Finally finish with your ending text and a photo of the gateway.
+
+ESRI updates STORYMAP buttons and options with great frequency.  The specific instructions in this tutorial are probably already out of date- but the general idea should still work. As with all GIS - part of the skill is learning to know what you want, and to figure out the paths to get there.
 
