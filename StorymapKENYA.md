@@ -74,21 +74,21 @@ Add a few layers . .
 
 ![expressMap2.png](./media/expressMap2.png)
 
-Once you place the map, you can still edit it.
-Under 'settings' (the small gear) you can change the basemap
+Once the map is placed, it can still be edited. 
+Under 'settings' (the small gear) change the basemap
 and add a 'legend'
 
 here is a link to my version - to follow along 
 https://storymaps.arcgis.com/stories/a1d1dc5d48334c1f9aa9e412e23470ea
 
 
-Next, lets add a Sidecar . . 
+Next, add a Sidecar . . 
 ![sidecar.png](./media/sidecar.png)
 
 Add a sub-heading: Strategic Pillar
 and add a series of images of the univeristy:.  
 
-Eventually you'll want one for each pillar, but we can re-arrange them later. 
+Eventually there should be a sub-heading for each pillar that the university wishes to describe, but these can be re-arranged later. 
 
 Pillar 1: Research,  Pillar 2: Facilities, Pillar 3: Student experience Pillar 4: Human Resources,  Pillar 5: Financing and Resources, Pillar 6: Leadership
 
@@ -105,9 +105,9 @@ Now return- below the black line= to the small blue '+' select "text" again, and
 
 ![](./media/addBanner2.png)
 
-We are going to add another side car- onl this time, the text will be on the left, and the a map with local data will be on the right. 
+Add another side car- only this time, put the text on the left, and a map with local data on the right. 
 
-Instead of adding an express map, lets make use of ARcGIS online to gather data layers about the regions of Taita Taveta, and show them on a map. 
+Instead of adding an express map, make use of ARcGIS online to gather data layers about the regions of Taita Taveta, and show them on a map. 
 
 In a new browser window open ArcGIS online, and make a new map.
 
@@ -122,9 +122,9 @@ Zoom to KENYA, and add the following data sets to your map
 Save this map with a NAME you can remember . .
 LEAVE ArcGIS Online.
 
-Now return to your StoryMap and use the banner to Add a sidecar. Selecting a 'docked panel' you can add the text on the left - describing vegettion, and add a map on the right to illustrate that. 
+Now return to StoryMap and use the banner to Add a sidecar. Selecting a 'docked panel' add the text on the left - describing vegetation, and add a map on the right to illustrate that. 
 
-You should find your own ArcGIS map  . .and can add it.
+Find your own ArcGIS map  . .and add it.
 ![](./media/MediaMap.png)
 
 
@@ -132,15 +132,15 @@ Make sure only one of the Map layers is visible, and zoom to the scale at which 
 
 ![](./media/PlaceMap.png)
 
-Staying in the same sidecar, add another map.(Add Media/ Add Map).  This time you select the same map, but choose different layers to add. Zoom in slightly to show the Kenya Wetlands around Taita Tavet and Voi.
+Staying in the same sidecar, add another map.(Add Media/ Add Map). Select the same map again, but choose different layers to add. Zoom in slightly to show, for example, the Kenya Wetlands around Taita Tavet and Voi.
 
 Finally add the same map a third time but this time zoom in further, and show the detailed information around the Taita Hills, collectd by research teams working with the University. 
 
 ![](./media/ZoominMap.png)
 
-You should now be able to figure out how to add some additional images into your running text box, and, eventually, how to add a 'button' with a link to the University Website. 
+Figure out how to add some additional images into the running text box, and how to add a 'button' with a link to the University Website. 
 
-Finally finish with your ending text and a photo of the gateway.
+Finally finish with an ending text and a photo of the gateway.
 
 ESRI updates STORYMAP buttons and options with great frequency.  The specific instructions in this tutorial are probably already out of date- but the general idea should still work. As with all GIS - part of the skill is learning to know what you want, and to figure out the paths to get there.
 
