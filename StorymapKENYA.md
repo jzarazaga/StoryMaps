@@ -31,7 +31,9 @@ The data folder contains the following data:
 
 
 #### Additional Help
-The Storymap that will be built in this tutorial will be similar to this one: https://storymaps.arcgis.com/stories/a1d1dc5d48334c1f9aa9e412e23470ea
+The Storymap that will be built in this tutorial will be similar to this one:
+https://arcg.is/1C8CjP1
+
 
 Open it as a model to work with . .
  
