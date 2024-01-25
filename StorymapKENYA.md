@@ -110,6 +110,7 @@ Now return- below the black line= to the small blue '+' select "text" again, and
 Add another side car- only this time, put the text on the left, and a map with local data on the right. 
 
 Instead of adding an express map, make use of ARcGIS online to gather data layers about the regions of Taita Taveta, and show them on a map. 
+[If you have not ever used ArcGIS onmline, lets just pull in an existing map from ArcGIS instead . .  [skip down there ADD MAP below]
 
 In a new browser window open ArcGIS online, and make a new map.
 
@@ -124,9 +125,10 @@ Zoom to KENYA, and add the following data sets to your map
 Save this map with a NAME you can remember . .
 LEAVE ArcGIS Online.
 
+#[ADD MAP here - if you skipped the map-making].
 Now return to StoryMap and use the banner to Add a sidecar. Selecting a 'docked panel' add the text on the left - describing vegetation, and add a map on the right to illustrate that. 
 
-Find your own ArcGIS map  . .and add it.
+Find your own ArcGIS map  . .and add it.   OR add my map 'Kenya_Taita'
 ![](./media/MediaMap.png)
 
 
