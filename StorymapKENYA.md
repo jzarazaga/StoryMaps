@@ -110,7 +110,7 @@ Now return- below the black line= to the small blue '+' select "text" again, and
 Add another side car- only this time, put the text on the left, and a map with local data on the right. 
 
 Instead of adding an express map, make use of ARcGIS online to gather data layers about the regions of Taita Taveta, and show them on a map. 
-[If you have not ever used ArcGIS onmline, lets just pull in an existing map from ArcGIS instead . .  [skip down there ADD MAP below]
+# [If you have not ever used ArcGIS onmline, lets just pull in an existing map from ArcGIS instead - saved with the SMUDallas organsiation. .  [skip down to 'ADD MAP' below]
 
 In a new browser window open ArcGIS online, and make a new map.
 
@@ -125,12 +125,13 @@ Zoom to KENYA, and add the following data sets to your map
 Save this map with a NAME you can remember . .
 LEAVE ArcGIS Online.
 
-#[ADD MAP here - if you skipped the map-making].
-Now return to StoryMap and use the banner to Add a sidecar. Selecting a 'docked panel' add the text on the left - describing vegetation, and add a map on the right to illustrate that. 
+# ADD MAP here [- if you skipped the map-making].
+Return to the StoryMap and use the banner to 'Add a sidecar'. Selecting a 'docked panel' add the text on the left - describing vegetation, and add a map on the right to illustrate that. 
 
-Find your own ArcGIS map  . .and add it.   OR add my map 'Kenya_Taita'
+Find your own ArcGIS map  . .and add it.   #OR Add a map > Serach in My Organisation for 'Kenya_Taita', and select and add that map. 
 ![](./media/MediaMap.png)
-
+search and add:
+![](./media/addKenyaMap.png)
 
 Make sure only one of the Map layers is visible, and zoom to the scale at which you want this map-data to show. Then click 'place map'.
 
