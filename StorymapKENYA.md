@@ -128,7 +128,7 @@ LEAVE ArcGIS Online.
 # ADD MAP here [- if you skipped the map-making].
 Return to the StoryMap and use the banner to 'Add a sidecar'. Selecting a 'docked panel' add the text on the left - describing vegetation, and add a map on the right to illustrate that. 
 
-Find your own ArcGIS map  . .and add it.   #OR Add a map > Serach in My Organisation for 'Kenya_Taita', and select and add that map. 
+Find your own ArcGIS map  . .and add it.   #OR Add a map > Search in My Organisation for 'Kenya_Taita', and select and add that map. 
 ![](./media/MediaMap.png)
 search and add:
 ![](./media/addKenyaMap.png)
